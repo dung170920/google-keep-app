@@ -1,0 +1,15 @@
+header {
+  background-color: #f5ba13;
+  margin: auto -16px;
+  padding: 16px 32px;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+}
+
+header span {
+  color: white;
+  display: flex;
+  align-items: center;
+  column-gap: 8px;
+  font-weight: 700;
+  font-size: 20px;
+}
